@@ -8,10 +8,10 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web,ios and android applications.
 - 🌱 I am presently in the process of mastering **Kotlin** and **React**
 
-- 👨‍💻 All of my public projects are at
+- 👨‍💻 All of my public projects are at https://github.com/Jamin04
 
 
-- 📫 How to reach me 
+- 📫 How to reach me jaminr698@gmail.com 
 
 - ⚡ Fun fact **I enjoying watching and playing rugby**
 
