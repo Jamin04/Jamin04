@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=jamin04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
+    <td><img width="380px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jamin04&theme=vue-dark&hide_border=true"/>
     </td>
 <!--     <td>
       <img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jamin04&theme=vue-dark&hide_border=true"/>
