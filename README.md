@@ -23,10 +23,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamin04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true/>
 </p>
 
-<p><img align="center" src="![jamin04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamin04&theme=vue-dark&hide_border=true)" alt="stats" /></p>
+<p><img align="center" src="![jamin04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamin04&theme=vue-dark&hide_border=true" alt="stats" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamin04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="stats" /></p>
- -->
+
 <table>
   <tr>
      <!-- <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=lazarusmugo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
